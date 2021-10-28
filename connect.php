@@ -1,6 +1,6 @@
 <?php
 
-$con = new mysqli('localhost' , 'root' , '' , 'crud');
+$con = new mysqli('10.0.0.85' , 'admin' , 'Rakhaelangx1#' , 'crud');
 
 
 if(!$con){
